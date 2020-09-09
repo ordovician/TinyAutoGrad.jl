@@ -1,1 +1,3 @@
-# TinyAutoGrad
+# Tiny Auto Gradient Library
+
+
